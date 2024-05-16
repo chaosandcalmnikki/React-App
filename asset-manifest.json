@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.ecbd18bd.css",
+    "main.js": "/React-App/static/js/main.49491070.js",
+    "static/js/453.22c7f88e.chunk.js": "/React-App/static/js/453.22c7f88e.chunk.js",
+    "static/media/star.svg": "/React-App/static/media/star.17e157a4d1cdca8cca5122695c8aeed3.svg",
+    "static/media/emptystar.svg": "/React-App/static/media/emptystar.cec82c28bda1521f7fb6dd576612f4da.svg",
+    "index.html": "/React-App/index.html",
+    "static/media/bookmark.svg": "/React-App/static/media/bookmark.8ae6c4479a0522f73611cefb76ceade1.svg",
+    "static/media/menu.svg": "/React-App/static/media/menu.28c2d6a9540b176505ac1b08262410b9.svg",
+    "static/media/add.svg": "/React-App/static/media/add.feac3f838bb5f8f7b4f16e6d3a70ad9c.svg",
+    "main.ecbd18bd.css.map": "/React-App/static/css/main.ecbd18bd.css.map",
+    "main.49491070.js.map": "/React-App/static/js/main.49491070.js.map",
+    "453.22c7f88e.chunk.js.map": "/React-App/static/js/453.22c7f88e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbd18bd.css",
+    "static/js/main.49491070.js"
+  ]
+}
